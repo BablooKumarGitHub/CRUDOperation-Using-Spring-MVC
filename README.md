@@ -1,2 +1,2 @@
 # CRUDOperation-Using-Spring-MVC
-This is small web app.
+This is a small web app.
